@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:padding="16dp">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etFullName"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:hint="@string/full_name"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginTop="12dp">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etBirthDate"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:focusable="false" android:clickable="true"
+                android:hint="@string/birth_date"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <RadioGroup
+            android:id="@+id/rgGender"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginTop="12dp">
+            <RadioButton
+                android:id="@+id/rbMale"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="@string/gender_male"/>
+            <RadioButton
+                android:id="@+id/rbFemale"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="@string/gender_female"/>
+        </RadioGroup>
+
+        <Spinner
+            android:id="@+id/spEducation"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"/>
+
+        <Spinner
+            android:id="@+id/spEmployment"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnSave"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:text="Save" android:layout_marginTop="24dp"/>
+    </LinearLayout>
+</ScrollView>

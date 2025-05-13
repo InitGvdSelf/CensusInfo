@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595827642815",
+    "project_id": "censusinfo-6ecab",
+    "storage_bucket": "censusinfo-6ecab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595827642815:android:e11f56d7e49179bd2b910a",
+        "android_client_info": {
+          "package_name": "ru.mirea.censusinfo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74pBCR26QNaFZrerLL1JE8IuFbrrUBzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

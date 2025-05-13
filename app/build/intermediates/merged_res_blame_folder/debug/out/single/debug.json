@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_support.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_support.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_item_citizen.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/item_citizen.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/menu_menu_admin_drawer.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/menu/menu_admin_drawer.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_fragment_citizen_greeting.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/fragment_citizen_greeting.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/menu_menu_census_taker.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/menu/menu_census_taker.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_census_taker_drawer.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_census_taker_drawer.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_main.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_item_household.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/item_household.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_citizen_form.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_citizen_form.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_fragment_my_forms.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/fragment_my_forms.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_stats.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_stats.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_item_ticket.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/item_ticket.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_item_my_form.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/item_my_form.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/menu_menu_feedback.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/menu/menu_feedback.xml"
+    },
+    {
+        "merged": "ru.mirea.censusinfo.app-merged_res-48:/layout_fragment_citizen_greeting.xml.flat",
+        "source": "ru.mirea.censusinfo.app-main-50:/layout/fragment_citizen_greeting.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_all_forms.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_all_forms.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/menu_menu_citizen_drawer.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/menu/menu_citizen_drawer.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_census_taker.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_census_taker.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/menu_menu_search.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/menu/menu_search.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/drawable_ic_logout_24.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/drawable/ic_logout_24.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_item_region_count.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/item_region_count.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_register.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_tickets.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_tickets.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/drawable_ic_support_24.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/drawable/ic_support_24.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/menu_drawer_census_taker.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/menu/drawer_census_taker.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/drawable_ic_search_24.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/drawable/ic_search_24.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_admin.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_citizen_drawer.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_citizen_drawer.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_login.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/drawable_ic_home_24.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/drawable/ic_home_24.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/drawable_ic_list_24.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/drawable/ic_list_24.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_citizen.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_citizen.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/drawable_ic_add_24.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/drawable/ic_add_24.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_activity_household_form.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/activity_household_form.xml"
+    },
+    {
+        "merged": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-merged_res-48:/layout_fragment_citizen_welcome.xml.flat",
+        "source": "/Users/vasya/.gradle/daemon/8.10/ru.mirea.censusinfo.app-main-50:/layout/fragment_citizen_welcome.xml"
+    }
+]

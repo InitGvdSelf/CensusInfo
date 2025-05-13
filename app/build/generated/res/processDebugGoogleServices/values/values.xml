@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">595827642815</string>
+    <string name="google_api_key" translatable="false">AIzaSyA74pBCR26QNaFZrerLL1JE8IuFbrrUBzc</string>
+    <string name="google_app_id" translatable="false">1:595827642815:android:e11f56d7e49179bd2b910a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA74pBCR26QNaFZrerLL1JE8IuFbrrUBzc</string>
+    <string name="google_storage_bucket" translatable="false">censusinfo-6ecab.firebasestorage.app</string>
+    <string name="project_id" translatable="false">censusinfo-6ecab</string>
+</resources>

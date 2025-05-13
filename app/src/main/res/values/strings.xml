@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CensusInfo</string>
+    <string name="add">Добавить</string>
+    <string name="full_name">ФИО</string>
+    <string name="birth_date">Дата рождения</string>
+    <string name="gender_male">Мужской</string>
+    <string name="gender_female">Женский</string>
+    <string name="no_data">Нет данных</string>
+    <string name="app_started">Приложение запустилось!</string>
+    <string name="app_title">CensusInfo</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="register_title">Регистрация</string>
+    <string name="confirm_password_hint">Повторите пароль</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="back_to_login">Назад к входу</string>
+    <string name="user_info">UID: %1$s\nE-mail: %2$s\nРоль: %3$s</string>
+    <!-- роли -->
+    <string name="role_user">user</string>
+    <string name="role_census_taker">census_taker</string>
+    <string name="role_admin">admin</string>
+    
+    <string name="nav_open">Открыть меню</string>
+    <string name="nav_close">Закрыть меню</string>
+    <!-- общий пункт меню / кнопки -->
+    <string name="feedback">Фидбек</string>
+    <string name="stats">Статистика</string>
+    <string name="users">Пользователи</string>
+    <string name="logout">Выход</string>
+    <string-array name="roles">
+        <item>citizen</item>
+        <item>censusTaker</item>
+        <item>statistician</item>
+    </string-array>
+    <string-array name="marital_statuses">
+        <item>Холост / Не замужем</item>
+        <item>Женат / Замужем</item>
+    </string-array>
+    <string name="title_new_citizen">Новая анкета</string>
+    <string name="empty">Пусто</string>
+    <string name="menu_pending">Анкеты на рассмотрении</string>
+    <string name="status_pending">На рассмотрении</string>
+    <string name="status_approved">Одобрена</string>
+    <string name="approve">Одобрить</string>
+    <string name="title_tickets">Обращения</string>
+</resources>
